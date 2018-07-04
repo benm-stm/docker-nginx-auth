@@ -1,7 +1,6 @@
 FROM nginx:alpine
 LABEL maintainer "Ed Marshall (ed@infinityworks.com)"
 LABEL Description Nginx auth secured to expose static ressources
-LABEL Vendor      Cabestan
 LABEL Version     1.0
 LABEL Maintainer  Raf <benmansour_rafik@yahoo.fr>
 
